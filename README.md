@@ -26,7 +26,7 @@ If you wish to stop the alarm sound manually or encounter any issues with the au
 
 ### Customizing the Alarm Sound
 
-The default alarm sound is [samsung_alarm.mp3]. If you'd like to customize the alarm sound, you can replace the `samsung_alarm.mp3` file in the project directory with your preferred sound file. Make sure the new file is in the MP3 format for compatibility.
+The default alarm sound is [Samsung Alarm](https://www.zedge.net/ringtone/0d3a6b29-7272-40dd-b9ff-71783a1c7871). If you'd like to customize the alarm sound, you can replace the `samsung_alarm.mp3` file in the project directory with your preferred sound file. Make sure the new file is in the MP3 format for compatibility.
 
 
 ### Usage
