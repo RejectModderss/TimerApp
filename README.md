@@ -14,7 +14,7 @@ TimerApp is a simple timer application built using Python and Tkinter. It allows
 
 ### Prerequisites
 
-- Python 3.x installed on your system.
+- Python 3.8+ installed on your system.
 - Tkinter library (usually comes with Python).
 
 ### Installation
