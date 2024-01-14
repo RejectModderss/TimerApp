@@ -20,6 +20,15 @@ TimerApp is a simple timer application built using Python and Tkinter. It allows
 ### Installation
 Only thing you need is pygame use this command to install it! `pip install pygame`
 
+### Stopping the Alarm Sound
+
+If you wish to stop the alarm sound manually or encounter any issues with the automatic stop, you can use the "Stop Timer" button. Clicking this button will halt the alarm sound and reset the timer, allowing you to start a new timer if needed.
+
+### Customizing the Alarm Sound
+
+The default alarm sound is [samsung_alarm.mp3]. If you'd like to customize the alarm sound, you can replace the `samsung_alarm.mp3` file in the project directory with your preferred sound file. Make sure the new file is in the MP3 format for compatibility.
+
+
 ### Usage
 1. Enter the desired timer duration in minutes.
 2. Click the "Start Timer" button.
