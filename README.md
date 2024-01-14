@@ -26,3 +26,6 @@ Only thing you need is pygame use this command to install it! `pip install pygam
 3. Optionally, switch between 24-hour and 12-hour formats using the "Switch Format" button.
 4. Stop the timer when needed.
 5. An alarm sound will play when the timer reaches zero.
+
+### Report Bugs
+If you honestly want to report a bug you find in this you can by adding me on discord, my discord is `rejectmodders`, but thats completely up to you, its in python, you could probably fix the bugs yourself, but this was a little project I did for fun to be honest.
